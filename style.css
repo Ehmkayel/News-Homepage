@@ -123,6 +123,9 @@ aside hr{
    
     
 }
+.bottom .flex-item:nth-child(3){
+    margin-left: 20px;
+}
 .flex-item p{
     opacity: 0.5;
     line-height: 1.3;
