@@ -210,9 +210,10 @@ aside hr{
     .bottom .flex-item{
        padding-bottom: 20px;
     }
+
+    .bottom .flex-item:nth-child(3){
+        margin-left: 0;
+    }
     
 }
 
-@media screen and (min-width: 320px){
-    
-}
